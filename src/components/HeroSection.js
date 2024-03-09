@@ -6,7 +6,7 @@ import '../App.css'
 const HeroSection = () => {
   return (
     <div className="hero-container">
-      <video src='url(/landpage_react/static/media/img-1.53f4843759ebec256cb9.jpg)' autoPlay loop muted />
+      <video src='./videos/video-1.mp4' autoPlay loop muted />
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
